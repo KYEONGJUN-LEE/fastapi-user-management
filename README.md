@@ -1,6 +1,8 @@
 
 # 🐍 FastAPI + MySQL 사용자 관리 프로젝트
 
+---
+
 ## 📌 소개
 이 프로젝트는 Python을 이용하여 사용자 정보(CRUD)를 MySQL DB와 연동해 관리하는 API입니다.  
 FastAPI, SQLAlchemy, dotenv를 활용하여 모듈화된 백엔드를 구현했습니다.
